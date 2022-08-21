@@ -1,5 +1,5 @@
 {
-    "name": "colorify-console",
+    "name": "techyshiv-colorify-console",
     "version": "1.0.0",
     "description": "Library used for colorify console",
     "main": "lib/index.js",
