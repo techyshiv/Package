@@ -1,0 +1,29 @@
+{
+    "name": "colorify-console",
+    "version": "1.0.0",
+    "description": "Library used for colorify console",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "prepare": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/techyshiv/Package.git"
+    },
+    "keywords": [
+        "console log colour",
+        "colorify colour"
+    ],
+    "author": "Shivang Saxena <shivangsaxena177@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/techyshiv/Package/issues"
+    },
+    "homepage": "https://github.com/techyshiv/Package#readme",
+    "devDependencies": {
+        "typescript": "^4.7.4"
+    },
+    "files": ["lib/**/*"]
+}
